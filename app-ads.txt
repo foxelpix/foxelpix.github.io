@@ -11,6 +11,15 @@ facebook.com, 563258390827542, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
+applovin.com, a8b4e8c01ed5d1a62c5446ebe4d8e05c, DIRECT
+adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+openx.com, 540785403, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 191086, RESELLER
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubnative.net, 1007170, RESELLER, d641df8625486a7b
+Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
+indexexchange.com, 191086, RESELLER
 applovin.com,c8802c2788bab3703acc24cf065d5390,RESELLER
 applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
 applovin.com,0b8086e03d0f715f09a9e6e5dbdbb4b8,RESELLER
