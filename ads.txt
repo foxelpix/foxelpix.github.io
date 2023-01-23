@@ -6,6 +6,8 @@ bidmachine.io, 63725, DIRECT
 #AdMob
 google.com, pub-2521901905326274, DIRECT, f08c47fec0942fa0
 
+ironsrc.com, 136645, Direct
+
 #Facebook
 #Replace the Business ID below with your Facebook Business ID
 facebook.com, 563258390827542, RESELLER, c3e20eme3f780d68
