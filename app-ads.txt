@@ -5,6 +5,7 @@ appodeal.com, 63725, DIRECT
 bidmachine.io, 63725, DIRECT
 #AdMob
 google.com, pub-2521901905326274, DIRECT, f08c47fec0942fa0
+google.com, pub-8132300908142761, DIRECT, f08c47fec0942fa0
 
 ironsrc.com, 136645, Direct
 
