@@ -230,6 +230,8 @@ openx.com, 540396775, RESELLER, 6a698e2ec38604c6
 #Pubmatic
 Pubmatic.com, 157800, RESELLER, 5d62403b186f2ace
 Pubmatic.com, 158118, RESELLER, 5d62403b186f2ace
+pangleglobal.com, 5001559, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 #Rubicon
 rubiconproject.com, 18364, RESELLER, 0bfd66d529a55807
 #Axonix
