@@ -40,6 +40,8 @@ smartadserver.com,3232,RESELLER
 pubmatic.com, 157097, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157153, RESELLER, 5d62403b186f2ace
+pangleglobal.com, 5001559, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 xad.com, 767, RESELLER, 81cbf0a75a5e0e9a
 xad.com, 1190, RESELLER, 81cbf0a75a5e0e9a
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
