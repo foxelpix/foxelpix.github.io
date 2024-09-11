@@ -1921,3 +1921,35 @@ freewheel.tv, 1606633, RESELLER
 e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 magicmedia.ae, 6f828808, RESELLER
 onetag.com, 8d4bbebb8fa701e, RESELLER
+
+aceinmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
+algorix.co, 54616, RESELLER, 5b394c12fea27a1d
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100396, RESELLER, 03113cd04947736d
+eliteappgrade.com, 494223, RESELLER
+eskimi.com, 2020000663, RESELLER
+ignitemediatech.com, pub_11115, RESELLER
+kidoz.net, 14260, RESELLER, a109366414b7335e
+lacunads.com, lcb555b3bc8667a09a, RESELLER
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+lunamedia.io, 2fdb16a1-5025-4c41-9b17-e01e47ebc8b4, RESELLER, 524ecb396915caaf
+mars.media, 1010442, RESELLER, 8624339f102fb076
+onlinemediasolutions.com, 23120, RESELLER
+openx.com, 540857594, RESELLER, 6a698e2ec38604c6
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
+playwire.com, 1018531, RESELLER
+pubmatic.com, 159501, RESELLER, 5d62403b186f2ace
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+rubiconproject.com, 18202, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+thebrave.io, 1234634, RESELLER, c25b2154543746ac
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+triplelift.com, 12908, RESELLER, 6c33edb13117fd86
+triplelift.com, 13883, RESELLER, 6c33edb13117fd86
+ushareit.com, lcb555b3bc8667a09a, RESELLER
+video.unrulymedia.com, 169764768, RESELLER
+webeyemob.com, 80029, RESELLER
+yeahmobi.com, 5135195, RESELLER
+zmaticoo.com, 5135195, RESELLER
+zmaticoo.com, 5135704, RESELLER
