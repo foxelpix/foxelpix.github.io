@@ -16,6 +16,18 @@ facebook.com, 1622182937, RESELLER, c3e20eme3f780d68
 facebook.com, 512464060190036, RESELLER, c3e20eee3f780d68
 facebook.com, 404724805094937, RESELLER, c3e20eee3f780d68
 
+#mintegral
+smaato.com, 1100057628, DIRECT, 07bcf65f187117b4
+
+triplelift.com, 12240, RESELLER, 6c33edb13117fd86
+
+rubiconproject.com, 25064, RESELLER, 0bfd66d529a55807
+
+appnexus.com, 15980, RESELLER, f5ab79cb980f11d1
+
+consumable.com, 2001560, RESELLER, aefcd3d2f45b5070
+
+
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
